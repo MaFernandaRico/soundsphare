@@ -1,0 +1,7 @@
+modelo\publicacion.class
+controlador\profile.class
+com\mycompany\soundsphare\JAXRSConfiguration.class
+modelo\DB.class
+modelo\perfil.class
+com\mycompany\soundsphare\resources\JavaEE8Resource.class
+controlador\publicar.class
